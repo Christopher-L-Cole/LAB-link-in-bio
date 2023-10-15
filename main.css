@@ -1,3 +1,22 @@
 body {
-    background-color: bisque;
+    text-align: center;
+    background-image: url('fallpic.jpg');
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
 }
+
+h1 {
+    text-align: center;
+    color: bisque;
+    padding-top: 150px;
+}
+h2 {
+    text-align: center;
+    color: bisque;
+}
+.btn {
+    background-color: #be5121;
+}
+
+
